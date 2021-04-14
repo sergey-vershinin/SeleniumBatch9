@@ -1,0 +1,17 @@
+03/18/21
+
+Array mrhod and the first day on intelli-J
+
+we use variables to hold single values
+
+for instance:
+int num  = 10;
+
+data types: primitive and non primitive types
+8 primitve and 4 non primitve
+(byte, short, char, int, float, double, long, boolean;
+
+String [] name = new Syring[10];
+
+//limititations on primitive data types, tha they can hold only
+sungle value;

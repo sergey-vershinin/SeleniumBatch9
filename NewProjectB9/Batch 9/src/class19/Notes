@@ -1,0 +1,29 @@
+Acceess modifiers:
+
+protected()-when we inherit from the one class only available to the child;
+default()can be accessed in the same class and same package;
+public()available within the thw whale project;
+============
+Constructor:
+a special block of code to initialize the fields/properties of a class
+
+default constructor assign a defaoult values:
+    int number; //0
+    boolean flag; //false
+    String str; //null
+    double db;  //0.0
+    car ch;   //ghost latter (nothing is diplayed
+---------
+to create a default constructor
+for instance:
+class ABC{
+ABC(){
+
+
+}
+}
+Rules:
+-name/return type/brasses
+-name of the constuctor should be the same as the method name
+
+this - means we re trying to access/refer to the instance variable;

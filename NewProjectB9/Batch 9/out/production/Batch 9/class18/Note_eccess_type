@@ -1,0 +1,40 @@
+re-cap from the previus class
+
+public class TypesOfvars{
+    String name;
+    static String CompanyName = "Syntax";
+
+    static void printCompanyInfo(){            //static means that it belongs to the class, not to the object/methods;
+       cannot access to the variable name // non static variable;
+        }
+
+      public static void mian(String[] args){
+      TypesOfvars obj1 = new TypesOfvars();
+      obj1.name = "RAM";
+
+    }
+}
+========================
+// Access modifiers//
+
+help access control thr access to the class properties/attributes and methods
+
+private   // can be access inly within the class
+default    //can be access anywhere withnin the package
+protected  //can be access inside the chils class
+public     // access form anyehere in program
+
+method declaration:
+0.1. access modifier //optioanl
+1.return type()  //mandtory
+2.name;   //mandtory
+3.()  //mandetory
+4. {} //mandetory
+==============
+Rule:
+always try to declare a properties as PRIVATE
+and difime the methods to change that pro[erties - gives us
+more control over that properties;
+=============
+=============
+=============

@@ -1,0 +1,38 @@
+name.equals("");
+name.contains("");
+name.toLowerCase();
+name.toUpperCase();
+nmae.equalsIgnoreCase();
+name.length();
+name.startWith();
+name.endWith();
+name.trim();
+name.isEmpty();
+name.charAt();
+name.indexOf();
+name.substring(n,m);//name.substring(n);
+name.replace("[1-2]", ""); //a-b etc .replace("a-zA-Z", "");
+name.replaceAll();
+var4.replace("[^a-z]", ""));  //^ == ! == not
+var4.replaceAll("[^a-zA-Z]", ""));  //SynatxisthebestBatchisbest
+var4.replaceAll("[^a-zA-Z ]", ""));  //Synatx is the best Batch  is best
+System.out.println(var3.trim().toLowerCase());
+StringBuiler();
+name.reverse();
+str1 = sb1.toString90;
+
+
+03/17.21
+
+replace demo
+regexr.com     special expression 
+https://www.javatpoint.com
+
+
+//-------
+       String word ="abrakadabra";
+
+      String replace=word.replaceAll("[^aAeEiIoOuU]", " ");
+
+      System.out.println(replace);
+//--------

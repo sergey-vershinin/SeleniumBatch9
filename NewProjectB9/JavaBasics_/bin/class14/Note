@@ -1,0 +1,11 @@
+Methods in Java:
+Method in Java is a BLOCK of code that perform some specific operTions;
+when we call a method, all the statements are executed inside the method, 
+then the control of the program jumps back to the point where that method
+ was called and it executed the next available instruction;
+
+ on a very high level we can divide methods in two types:
+ 
+ -Built-in methods - can not change them
+ -User defined methods
+ 

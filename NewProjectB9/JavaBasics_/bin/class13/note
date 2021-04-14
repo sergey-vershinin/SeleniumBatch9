@@ -1,0 +1,8 @@
+in this part of the Java class we will be learning how to create/manage large Java programs;
+
+OOP (object oriented programming);
+object oriented programming is a way of writing the code using the idea of objects.
+Class is design/template/blueprint that has attributes(descriptions);
+
+
+	heap - where we store the object values; "local"

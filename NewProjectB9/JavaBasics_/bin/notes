@@ -1,0 +1,42 @@
+class agenda:
+
+String methods, that help us  manipulate combinations of letters, 
+there are many useful methods
+
+immutable - internal memory implementation (String class)
+we can not change the value of the String type
+a new object will be created;
+
+
+String builder using new operator, 
+always a new object will be created inside the memory 
+
+String class, when use of memory is import
+string builder for the speed
+
+if data will not change - string
+if data changing - string builder
+diff
+
+//-----------
+types of the variables w.r.t their scope
+
+there are three types of variables in java
+1. local variables
+2.instance variables;
+3.static variables;
+
+local variables:
+there are variables which are declare inside  methods, 
+constructor or any block of the code
+like if conditions,, for loop, do while loop, switch statements and etc;
+
+a class that has "{" and ending "}"
+
+
+f or instance:\void(){
+String name = "blblb"; //local variable
+
+
+
+
